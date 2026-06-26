@@ -17,7 +17,7 @@ https://www.docker.com/products/docker-desktop/
 Открыть терминал (можно прямо в IDE, например в PyCharm или VS Code) и выполнить
 
 ```bash
-git clone https://github.com/revolutionary-juice/vkr2026_lib_recommend.git
+git clone https://github.com/DepartmentOfSoftwareEngineeringFEFU/-B9122-09.03.04-Yakovlev_Kirill_Andreevich.git
 ```
 
 **Шаг 3.** Перейти в папку проекта

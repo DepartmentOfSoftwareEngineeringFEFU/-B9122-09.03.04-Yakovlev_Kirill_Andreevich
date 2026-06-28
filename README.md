@@ -3,7 +3,7 @@
 ВКР Яковлев Кирилл Андреевич, 09.03.04 Программная инженерия, ДВФУ 2026
 
 ---
-##Стек технологий
+## Стек технологий
 **Backend**
 Python, FastAPI, Uvicorn, SQLAlchemy, Pydantic, PostgreSQL, bcrypt, scikit-learn (TF-IDF)
 
